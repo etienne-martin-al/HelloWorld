@@ -19,6 +19,8 @@ namespace TestCs
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
+			
+			Console.WriteLine("Program is too quick to let you read this !");
 		}
 	}
 }
