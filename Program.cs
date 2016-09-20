@@ -21,6 +21,7 @@ namespace TestCs
 			Console.ReadKey(true);
 			
 			Console.WriteLine("Program is too quick to let you read this !");
+			Console.WriteLine("Last change before Git Merge !");
 		}
 	}
 }
