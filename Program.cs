@@ -14,11 +14,15 @@ namespace TestCs
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("This is not a test!");
+			Console.WriteLine("This is a test or this is not a test...");
+			Console.WriteLine("This is the question...");
 			Console.WriteLine("Or not ?");
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
+			
+			Console.WriteLine("Program is too quick to let you read this !");
+			Console.WriteLine("Last change before Git Merge !");
 		}
 	}
 }
