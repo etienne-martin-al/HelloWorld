@@ -14,7 +14,7 @@ namespace TestCs
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("This is not a test or not...");
+			Console.WriteLine("This is a test or this is not a test...");
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
